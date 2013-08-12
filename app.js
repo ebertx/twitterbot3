@@ -3,7 +3,7 @@ var config = require('./node_modules/twit/config.js');
 
 var bot = new Bot(config);
 
-console.log('twitbot2: Running.');
+console.log('twitbot3: Running.');
 
 //get date string for today's date (e.g. '2011-01-01')
 function datestring () {
